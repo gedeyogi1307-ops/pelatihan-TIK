@@ -14,8 +14,8 @@ body {
     text-align: center; /* Menengahkan semua teks di dalam kartu */
 }
 .Foto oval {
-         width: 150px;
-    height: 200px;
+         width: 15px;
+    height: 20px;
     border-radius: 50%;
     object-fit: cover;
 }
